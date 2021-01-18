@@ -1,18 +1,27 @@
-.panda-card{
-    border: 0px;
+body{
+    background-color:white;
+    
 }
-.panda-card-footer{
-    background-color: white;
-    border: 0px;
+.container{
+    width: 900px;
+    
 }
-.catagories img{
-    height: 60px;
+.bg-color{
+    background-color: #FFFBF0;
 }
-.panda-slide .carousel-item{
-    background-color: #fceae8;
+
+.penguin-card{
+    border:none;
+    background-color:white;
+    margin: 1em;
     border-radius: 1em;
+
 }
-.button-slide{
-    background-color: #fceae8;
-    border-radius: 1em;
+.penguin-card img{
+    background-color: #F1F1F1;
+    
+}
+.penguin-card-footer .card-body{
+    background-color:white;
+    border: none;
 }
