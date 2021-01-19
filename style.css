@@ -1,9 +1,13 @@
-body{
-    background-color:white;
+body {
+    background-color:#E6E6E6;
+    font-family: 'Roboto', sans-serif;
     
 }
+h1 h2{
+    font-family: 'Bebas Neue', cursive;
+}
 .container{
-    width: 900px;
+    width: 1000px;
     
 }
 .bg-color{
@@ -25,3 +29,4 @@ body{
     background-color:white;
     border: none;
 }
+
